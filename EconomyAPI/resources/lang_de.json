@@ -9,7 +9,7 @@
 			"usage": "/topmoney [Seite]",
 			"description": "Schau die Topliste des Geldes an"
 		},
-		"setmoney":			
+		"setmoney": {			
                         "usage": "/setmoney <Spieler> <Betrag>",
 			"description": "Setz den Geldstand eines Spielers"
 		},
