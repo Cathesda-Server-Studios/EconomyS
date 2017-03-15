@@ -10,7 +10,7 @@
 			"description": "Schau die Topliste des Geldes an"
 		},
 		"setmoney":			
-"usage": "/setmoney <Spieler> <Betrag>",
+                        "usage": "/setmoney <Spieler> <Betrag>",
 			"description": "Setz den Geldstand eines Spielers"
 		},
 		"seemoney": {
