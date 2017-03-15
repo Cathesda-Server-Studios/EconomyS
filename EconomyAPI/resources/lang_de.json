@@ -19,7 +19,7 @@
 		},
 		"givemoney": {
 			"usage": "/givemoney <Spieler> <Betrag>",	
-      'description": "Schenk ein Spieler Geld"
+      "description": "Schenk ein Spieler Geld"
 },
 		"takemoney": {
 			"usage": "/takemoney <Spieler> <Betrag>",
