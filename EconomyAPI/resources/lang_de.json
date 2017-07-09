@@ -38,7 +38,7 @@
 			"description": "Schau dein Geld Status an"
 		}
 	},
-    "language-set": "Sprache auf %1 gesetzt von Cathesda Server Studios und MineoutPE.bplaced.net",
+    "language-set": "Sprache auf %1 gesetzt vom Server cathesda.ddns.net:40372",
     "request-cancelled": "Ihre Anfrage wurde storniert",
     "player-not-connected": "%1 ist Offline.",
     "player-never-connected": "%1 war noch nie auf diesen Server bitte überprüf deine Rechtschreibung.",
